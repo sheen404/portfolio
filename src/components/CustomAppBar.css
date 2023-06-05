@@ -1,0 +1,15 @@
+.clase
+{
+text-decoration-color: none;
+color: #F7C9D6;
+text-decoration: none;
+
+}
+.clase2:hover
+{
+color: white;
+text-decoration: none;
+}
+.linkcolor a:visited{
+    color:blue;
+}
